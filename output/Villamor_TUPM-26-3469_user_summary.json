@@ -1,0 +1,25 @@
+{
+    "student": "Villamor",
+    "student_id": "TUPM-26-3469",
+    "seed_digit": 9,
+    "operating_system": "iOS",
+    "user_behavior_class": 5,
+    "total_records_in_dataset": 700,
+    "records_matching_os": 146,
+    "invalid_records_skipped": 0,
+    "records_in_target_behavior_class": 31,
+    "average_battery_drain_mah_per_day": 2727.97,
+    "average_data_usage_mb_per_day": 1940.9,
+    "exported_fields": [
+        "User ID",
+        "Device Model",
+        "Operating System",
+        "Battery Drain (mAh/day)",
+        "Data Usage (MB/day)"
+    ],
+    "exported_csv": "Villamor_TUPM-26-3469_user_profile.csv",
+    "exported_row_count": 31,
+    "row_count_verified": true,
+    "backup_file": "Villamor_TUPM-26-3469_user_profile.csv",
+    "backup_size_bytes": 978
+}

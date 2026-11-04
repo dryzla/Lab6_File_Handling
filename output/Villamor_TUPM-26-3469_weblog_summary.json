@@ -1,0 +1,45 @@
+{
+    "student": "Villamor",
+    "student_id": "TUPM-26-3469",
+    "seed_digit": 9,
+    "id_sum": 30,
+    "records_processed": 1030,
+    "valid_records": 1030,
+    "invalid_records_skipped": 0,
+    "target_status_class": "3xx",
+    "records_in_target_class": 165,
+    "count_per_status_code": {
+        "302": 144,
+        "304": 21
+    },
+    "count_per_status_code_all_processed": {
+        "200": 852,
+        "206": 8,
+        "302": 144,
+        "304": 21,
+        "404": 5
+    },
+    "five_most_requested_urls": [
+        {
+            "url": "/",
+            "count": 47
+        },
+        {
+            "url": "/process.php",
+            "count": 35
+        },
+        {
+            "url": "/contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest",
+            "count": 34
+        },
+        {
+            "url": "/home.php",
+            "count": 9
+        },
+        {
+            "url": "/logout.php",
+            "count": 7
+        }
+    ],
+    "filtered_csv": "Villamor_TUPM-26-3469_weblog_filtered.csv"
+}
